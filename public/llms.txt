@@ -1,35 +1,45 @@
-# Business — Generative Engine Optimization Map
+# תן טיפ — Generative Engine Optimization Map
+
+> Ten Tip is a young and creative digital design and marketing studio offering comprehensive services including digital design, marketing, advertising, sales, production, and SEO. The studio specializes in advertising and marketing content with a focus on responsibility and professionalism, serving business clients across Israel and the United States.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://tan-tip.zappy5.app
 תן טיפ - סטודיו עיצוב דיגיטלי בישראל המתמחה בשיווק, פרסום, קידום אתרים ועיצוב גרפי לעסקים. שירותי שיווק דיגיטלי מקצועיים עם אחריות מלאה ותוצאות מדידות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://tan-tip.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://tan-tip.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://tan-tip.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About תן טיפ
+Ten Tip is a young and creative digital design and marketing studio offering comprehensive services including digital design, marketing, advertising, sales, production, and SEO. The studio specializes in advertising and marketing content with a focus on responsibility and professionalism, serving business clients across Israel and the United States.
+
+## Target Audience
+לקוחות עסקיים בישראל וארה"ב
+
+## Industry
+שירותי פרסום ושיווק דיגיטלי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://tan-tip.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tan-tip.zappy5.app/robots.txt
